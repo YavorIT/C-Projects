@@ -60,6 +60,10 @@ dlldata.c
 *.vssscc
 .builds
 *.pidb
+.layout
+.depend
+.cbp
+.onetoc2
 *.svclog
 *.scc
 
