@@ -1,2 +1,2 @@
 # C-Projects
-My project in C.
+My projects in C.
