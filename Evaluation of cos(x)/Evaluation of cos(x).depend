@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426801211 source:d:\iavor\eksperimenti\code blocks\evaluation of cos(x)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

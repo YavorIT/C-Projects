@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426768516 source:d:\iavor\eksperimenti\code blocks\evaluation of sin(x)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

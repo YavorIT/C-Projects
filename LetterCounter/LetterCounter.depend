@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1431187406 source:d:\iavor\eksperimenti\code blocks\lettercounter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<Windows.h>
+

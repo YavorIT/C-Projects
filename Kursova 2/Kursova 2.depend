@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1430657870 source:d:\iavor\eksperimenti\code blocks\kursova 2\main.c
+	"MyHeader.h"
+
+1430657870 h"
+
+1431013159 d:\iavor\eksperimenti\code blocks\kursova 2\myheader.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1431013159 
+
+1430654270 source:/media/iavor/6ABA4A62BA4A2B41/iavor/Eksperimenti/Code Blocks/Kursova 2/main.c
+	"MyHeader.h"
+
+1432070242 /media/iavor/6ABA4A62BA4A2B41/iavor/Eksperimenti/Code Blocks/Kursova 2/MyHeader.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

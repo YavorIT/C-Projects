@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428594472 source:d:\iavor\eksperimenti\code blocks\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431534830 source:d:\iavor\eksperimenti\code blocks\trigonometric functions calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
